@@ -1,8 +1,5 @@
-[![Gitter](https://badges.gitter.im/LebedevOrg/3819.svg)](https://gitter.im/LebedevOrg/3819?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-
-# 3819
-Информация для студентов ИИТММ 19 года.
+# 3821
+Информация для студентов ИИТММ 21 года.
 В этом репозитории будут собраны полезные сведения, важная информация, обсуждения и прочее
 
 Лебедев Илья Генадьевич: lebedev.ilya.g@gmail.com
@@ -21,55 +18,17 @@
 
 # Результаты
 
-Таблица с результатами для групп 381903-3, 381908-1, 381908-4: https://docs.google.com/spreadsheets/d/1FuVLe11pxRXM6br7shI91CBheth8a9ZmGAtlOEsE0hk/edit?usp=sharing
-
-Таблица со ссылками на отчеты: https://docs.google.com/spreadsheets/d/1CI6BbNsSh1Pxbip6-v6qcmreMddxDi1xy9srDXh-cjs/edit?usp=sharing
-
-Таблица для участвующих в конкурсе проектов: https://docs.google.com/spreadsheets/d/1tOpJ1ix5uPfoEIDgdg79H3J9n_nNnvRl4D5-S4HxVLI/edit?usp=sharing
 
 # Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
 
-Страница курса: [http://www.itmm.unn.ru/courses/algoritmy-i-struktury-dannyh]
-
-Вот ссылка на презентации: [http://www.itmm.unn.ru/most/prezentatsii-po-kursu-algoritmy-i-struktury-dannyh/]
-
-Ссылка на материалы (2 тома): [http://www.itmm.unn.ru/most/obuchenie/uchebnye-materialy/]
-
-Методичка по лабам: [http://www.unn.ru/books/met_files/Pract_ADS.pdf]
 
 Информация о конкурсе проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
-
-Совместная разработка: [https://docs.google.com/document/d/1Gmz7UmEJylV0_anjgYmSJBliMIyQ5U6625flVlVT3E4/edit?usp=sharing]
 
 Создание приложения Windows Forms на c++: https://vscode.ru/articles/windows-forms-cpp.html
 
 # Список лабораторных работ
-
-|Название|
-|-------------|
-|3|семестр|
-|-------------|
-|Множество|
-|Матрицы|
-|Стек|
-|Очередь|
-|N-стеков (на общей памяти)|
-|Список на двух массивах|
-|Список на указателях|
-|Очередь на списке|
-|Стек на списке|
-|Полиномы|
-|Арифметика|
-|4|семестр|
-|-------------|-------------|
-|Тексты|
-|Плексы|
-|Просмотровая и Упорядоченная таблица|
-|Таблица на деревьях|
-|Хеш таблицы с разрешением коллизий перемешиванием и списками|
-
 
 
 # Записи занятий:
