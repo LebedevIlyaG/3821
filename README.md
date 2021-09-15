@@ -15,13 +15,18 @@
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
+Zoom группы 3821Б1ФИ3:
+Тема: 3821Б1ФИ3
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
+Идентификатор конференции: 790 7160 3941
+Код доступа: XM61e8
+
 
 # Результаты
 
 
 # Полезные ссылки:
-
-Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
 
 
 Информация о конкурсе проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
