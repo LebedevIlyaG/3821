@@ -23,6 +23,14 @@ https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
 Код доступа: XM61e8
 
 
+Zoom группы 3821Б1ФИ3:
+Тема: 3821Б1ПМ3
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
+Идентификатор конференции: 798 3855 1352
+Код доступа: 4KJfxk
+
+
 # Результаты
 
 
