@@ -36,7 +36,9 @@ https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
 
 07.10.2021 - Операторы - https://cloud.unn.ru/s/EsHLBm5Fne2w6Mw
 
-p.s. Летом сократили максимальный размер файла до 50 МБ и теперь 30-ти минутная запись не влазит.
+11.10.2021 - Случайные числа - https://cloud.unn.ru/s/DA8sF9ARRbo9afQ
+
+11.10.2021 - Лабораторная 1 - https://cloud.unn.ru/s/rsa5fC7QZH5K37Y
 
 # Результаты
 
