@@ -46,6 +46,16 @@ https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
 
 18.10.2021 - Оформление и Git - https://cloud.unn.ru/s/TMXZ8KNWtidj5RQ
 
+cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
+
+cmake2 - https://cloud.unn.ru/s/52zsCmnYYagxN4n
+
+git1 - https://cloud.unn.ru/s/EGz2GpGkmtisDHa
+
+git2 - https://cloud.unn.ru/s/8FXYSYKjtb7aFsJ
+
+git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
+
 # Результаты
 
 
