@@ -15,6 +15,8 @@
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
+Таблица для сдачи лабораторных: https://docs.google.com/spreadsheets/d/1khRMYUmDdcsDoqQLIWHQocJY56Yov7xP4JXlbpdVP_Y/edit?usp=sharing
+
 Zoom группы 3821Б1ФИ3:
 Тема: 3821Б1ФИ3
 Подключиться к конференции Zoom
