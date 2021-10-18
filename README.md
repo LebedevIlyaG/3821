@@ -42,6 +42,10 @@ https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
 
 11.10.2021 - Лабораторная 1 - https://cloud.unn.ru/s/rsa5fC7QZH5K37Y
 
+18.10.2021 - Функции и локальные переменные - https://cloud.unn.ru/s/GfZGSwWs4QAWq7L
+
+18.10.2021 - Оформление и Git - https://cloud.unn.ru/s/TMXZ8KNWtidj5RQ
+
 # Результаты
 
 
