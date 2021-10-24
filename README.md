@@ -17,7 +17,14 @@
 
 Таблица для сдачи лабораторных: https://docs.google.com/spreadsheets/d/1khRMYUmDdcsDoqQLIWHQocJY56Yov7xP4JXlbpdVP_Y/edit?usp=sharing
 
-Zoom группы 3821Б1ФИ3:
+Zoom для теоретических занятий, в понедельник 18:30, группы 3821Б1ПМ3 и 3821Б1ФИ3, все подгруппы:
+Тема: 3821Б1
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/75562968659?pwd=bndVNDJGWDZFT09iOTFlQVhRUGV1dz09
+Идентификатор конференции: 755 6296 8659
+Код доступа: Yv0TVW
+
+Zoom для практики группы 3821Б1ФИ3, в пятницу 9:10:
 Тема: 3821Б1ФИ3
 Подключиться к конференции Zoom
 https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
@@ -25,7 +32,22 @@ https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
 Код доступа: XM61e8
 
 
-Zoom группы 3821Б1ФИ3:
+Zoom для практики группы 3821Б1ПМ3, в среду в 13:00:
+Тема: 3821Б1ПМ3
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
+Идентификатор конференции: 798 3855 1352
+Код доступа: 4KJfxk
+
+Zoom для сдачи лабораторных группы 3821Б1ФИ3, в среду 9:10:
+Тема: 3821Б1ФИ3
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
+Идентификатор конференции: 790 7160 3941
+Код доступа: XM61e8
+
+
+Zoom для сдачи лабораторных группы 3821Б1ПМ3, в среду в 10:50:
 Тема: 3821Б1ПМ3
 Подключиться к конференции Zoom
 https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
