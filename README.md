@@ -78,6 +78,10 @@ git2 - https://cloud.unn.ru/s/8FXYSYKjtb7aFsJ
 
 git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
+25.10.2021 - Функции и начало указателей - https://cloud.unn.ru/s/SGmTeERcB5maHSZ
+
+25.10.2021 - Указатели: начало - https://cloud.unn.ru/s/GjJWNrwL5GRGrcs
+
 # Результаты
 
 
