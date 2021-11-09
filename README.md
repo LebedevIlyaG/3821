@@ -82,6 +82,10 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 25.10.2021 - Указатели: начало - https://cloud.unn.ru/s/GjJWNrwL5GRGrcs
 
+08.11.2021 - Вторая лабораторная, работа с файлмаи - https://cloud.unn.ru/s/SaoF9rCZLtK4eme
+
+08.11.2021 - Продолжение работы с указателями - https://cloud.unn.ru/s/yzenPxZwwnaWnGM
+
 # Результаты
 
 
