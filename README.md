@@ -86,6 +86,10 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 08.11.2021 - Продолжение работы с указателями - https://cloud.unn.ru/s/yzenPxZwwnaWnGM
 
+15.11.2021 - Вспоминаем операторы - https://cloud.unn.ru/s/ZTNmDyDH5mD7MkS
+
+15.11.2021 - Заголовки, функции, сортировки - https://cloud.unn.ru/s/CckzTzAAKNGqwNq
+
 # Результаты
 
 
