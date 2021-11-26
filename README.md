@@ -90,6 +90,10 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 15.11.2021 - Заголовки, функции, сортировки - https://cloud.unn.ru/s/CckzTzAAKNGqwNq
 
+22.11.2021 - Быстрая сортировка и замеры времени - https://cloud.unn.ru/s/tZ8GY5TW8bGYaKb
+
+22.11.2021 - Строки - https://cloud.unn.ru/s/ANf6ok7TxQnfWK7
+
 # Результаты
 
 
