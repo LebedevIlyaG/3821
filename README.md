@@ -94,6 +94,11 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 22.11.2021 - Строки - https://cloud.unn.ru/s/ANf6ok7TxQnfWK7
 
+29.11.2021 - Строки2 - https://cloud.unn.ru/s/kG4cRNY9Yi3y67t
+
+29.11.2021 - Многомерные массивы - https://cloud.unn.ru/s/LQ8NN6ZoNGQafP4
+
+
 # Результаты
 
 
