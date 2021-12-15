@@ -98,6 +98,9 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 29.11.2021 - Многомерные массивы - https://cloud.unn.ru/s/LQ8NN6ZoNGQafP4
 
+13.12.2021 - перечисления и структуры - https://cloud.unn.ru/s/ecebwz3eFf2ZiBP
+
+13.12.2021 - вектор - https://cloud.unn.ru/s/PKxi2MmfmbgG6fc
 
 # Результаты
 
