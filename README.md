@@ -17,14 +17,8 @@
 
 Таблица для сдачи лабораторных: https://docs.google.com/spreadsheets/d/1khRMYUmDdcsDoqQLIWHQocJY56Yov7xP4JXlbpdVP_Y/edit?usp=sharing
 
-Zoom для теоретических занятий, в понедельник 18:30, группы 3821Б1ПМ3 и 3821Б1ФИ3, все подгруппы:
-Тема: 3821Б1
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/75562968659?pwd=bndVNDJGWDZFT09iOTFlQVhRUGV1dz09
-Идентификатор конференции: 755 6296 8659
-Код доступа: Yv0TVW
 
-Zoom для практики группы 3821Б1ФИ3, в пятницу 9:10, обе подгруппы:
+Zoom для сдачи лабораторных группы 3821Б1ФИ3, в пятницу 9:10, обе подгруппы:
 Тема: 3821Б1ФИ3
 Подключиться к конференции Zoom
 https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
@@ -32,7 +26,7 @@ https://us04web.zoom.us/j/79071603941?pwd=R1d4MlBxZ2J5RE1saXA3TlZqMldQUT09
 Код доступа: XM61e8
 
 
-Zoom для практики группы 3821Б1ПМ3, в среду в 13:00, обе подгруппы:
+Zoom для сдачи лабораторных группы 3821Б1ПМ3, в среду в 13:00, обе подгруппы:
 Тема: 3821Б1ПМ3
 Подключиться к конференции Zoom
 https://us04web.zoom.us/j/79838551352?pwd=U2lpT1dIOFJLdjYwMG5jTGRGQm9nZz09
@@ -98,12 +92,13 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 29.11.2021 - Многомерные массивы - https://cloud.unn.ru/s/LQ8NN6ZoNGQafP4
 
-13.12.2021 - перечисления и структуры - https://cloud.unn.ru/s/ecebwz3eFf2ZiBP
+13.12.2021 - Перечисления и структуры - https://cloud.unn.ru/s/ecebwz3eFf2ZiBP
 
-13.12.2021 - вектор - https://cloud.unn.ru/s/PKxi2MmfmbgG6fc
+13.12.2021 - Вектор - https://cloud.unn.ru/s/PKxi2MmfmbgG6fc
 
-# Результаты
+20.12.2021 - Переименование типов, Русский язык в программах - https://cloud.unn.ru/s/EyTxHjJoK8jM65o
 
+20.12.2021 - Библиотеки - https://cloud.unn.ru/s/TzfxS38kzYRCaRg
 
 # Полезные ссылки:
 
@@ -111,7 +106,3 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 Информация о конкурсе проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
 
 Создание приложения Windows Forms на c++: https://vscode.ru/articles/windows-forms-cpp.html
-
-# Список лабораторных работ
-
-
