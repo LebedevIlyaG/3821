@@ -18,6 +18,27 @@
 
 # Записи занятий
 
+
+# Второй семестр
+
+11.02.2022 - С++ начало 1 - https://cloud.unn.ru/s/A8fo3GHPxfSoXdJ
+
+11.02.2022 - С++ начало 2 - https://cloud.unn.ru/s/MDW9gRxBmnGkcMN
+
+
+
+cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
+
+cmake2 - https://cloud.unn.ru/s/52zsCmnYYagxN4n
+
+git1 - https://cloud.unn.ru/s/EGz2GpGkmtisDHa
+
+git2 - https://cloud.unn.ru/s/8FXYSYKjtb7aFsJ
+
+git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
+
+# Первый семестр
+
 07.10.2021 - Переменные и операции - https://cloud.unn.ru/s/sWwdnNT75wBP5aW 
 
 07.10.2021 - Операторы - https://cloud.unn.ru/s/EsHLBm5Fne2w6Mw
@@ -29,16 +50,6 @@
 18.10.2021 - Функции и локальные переменные - https://cloud.unn.ru/s/GfZGSwWs4QAWq7L
 
 18.10.2021 - Оформление и Git - https://cloud.unn.ru/s/TMXZ8KNWtidj5RQ
-
-cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
-
-cmake2 - https://cloud.unn.ru/s/52zsCmnYYagxN4n
-
-git1 - https://cloud.unn.ru/s/EGz2GpGkmtisDHa
-
-git2 - https://cloud.unn.ru/s/8FXYSYKjtb7aFsJ
-
-git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 
 25.10.2021 - Функции и начало указателей - https://cloud.unn.ru/s/SGmTeERcB5maHSZ
 
@@ -71,6 +82,12 @@ git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
 # Полезные ссылки:
 
 
-Информация о конкурсе проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
+Информация о конкурсе проектов: [http://www.itmm.unn.ru/obuchenie/uchebnyj-process/konkurs-studencheskih-rabot/]
 
 Создание приложения Windows Forms на c++: https://vscode.ru/articles/windows-forms-cpp.html
+
+Git for Windows (консоль): [https://git-scm.com/downloads] 
+
+tortoisegit: [https://tortoisegit.org/]
+
+cmake: [http://www.cmake.org]
