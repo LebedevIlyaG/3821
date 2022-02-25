@@ -75,7 +75,11 @@ https://us04web.zoom.us/j/72396116423?pwd=Wc50DgqY9PWCJFHXbLhtpVm7fFgEsp.1
 
 11.02.2022 - С++ начало 2 - https://cloud.unn.ru/s/MDW9gRxBmnGkcMN
 
+18.02.2022 - классы 1 - https://cloud.unn.ru/s/QEwDJLoGXWz6Z2K
 
+25.02.2022 - классы 2 - https://cloud.unn.ru/s/Cy5KfQnibSS4No5
+
+25.02.2022 - классы 3 - https://cloud.unn.ru/s/P4HcWqJQeiXKbmS
 
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
 
