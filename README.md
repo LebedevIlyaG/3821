@@ -81,6 +81,10 @@ https://us04web.zoom.us/j/72396116423?pwd=Wc50DgqY9PWCJFHXbLhtpVm7fFgEsp.1
 
 25.02.2022 - классы 3 - https://cloud.unn.ru/s/P4HcWqJQeiXKbmS
 
+04.03.2022 - наследование 1 - https://cloud.unn.ru/s/2PGg2tc7Y5H9HLH
+
+04.03.2022 - наследование 2 - https://cloud.unn.ru/s/2jEb7F6pzW5t5JR
+
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
 
 cmake2 - https://cloud.unn.ru/s/52zsCmnYYagxN4n
