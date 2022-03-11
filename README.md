@@ -13,58 +13,9 @@
 
 # Практические занятия
 
+БУДУТ ИДТИ ПО РАСПИСАНИЮ!!!
+
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
-
-**Торетические занятия:  Пятница 18:00**
-
-Подключиться к конференции Zoom: 
-https://us04web.zoom.us/j/76470619020?pwd=uqYzCTXk6DMf73K40T7lOJhu163Xlf.1
-
-Идентификатор конференции: 764 7061 9020
-Код доступа: 8R3mpX
-
-
-
-**3821Б1ПМ3_1 программирование: вторник 14:40**
-
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/75483025366?pwd=YbBZuAAmTFEFknJSOumm60o8ylsrNZ.1
-
-Идентификатор конференции: 754 8302 5366
-Код доступа: 8JZKTy
-
-
-
-**3821Б1ПМ3_2 программирование: вторник 16:20**
-
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/76409135156?pwd=jDqsbPpccSbHtXPrlAdOk1tF4XEERr.1
-
-Идентификатор конференции: 764 0913 5156
-Код доступа: d3Wj1R
-
-
-
-**3821Б1ФИ3_1 программирование: четверг 9:10**
-
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/73080321967?pwd=q4XBFmqTQ03JdYF5wHS2xK58-4lxtP.1
-
-Идентификатор конференции: 730 8032 1967
-Код доступа: 4MZcPh
-
-
-
-**3821Б1ФИ3_2 программирование: четверг 10:50**
-
-Подключиться к конференции Zoom
-https://us04web.zoom.us/j/72396116423?pwd=Wc50DgqY9PWCJFHXbLhtpVm7fFgEsp.1
-
-Идентификатор конференции: 723 9611 6423
-Код доступа: 4LfnRf
-
-
-
 
 # Записи занятий
 
@@ -84,6 +35,10 @@ https://us04web.zoom.us/j/72396116423?pwd=Wc50DgqY9PWCJFHXbLhtpVm7fFgEsp.1
 04.03.2022 - наследование 1 - https://cloud.unn.ru/s/2PGg2tc7Y5H9HLH
 
 04.03.2022 - наследование 2 - https://cloud.unn.ru/s/2jEb7F6pzW5t5JR
+
+11.03.2022 - перегрузка операторов 1 - https://cloud.unn.ru/s/z37fenFLB4mXWTg
+
+11.03.2022 - перегрузка операторов 2 - https://cloud.unn.ru/s/9g3kCTXtcpPRHw4
 
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
 
