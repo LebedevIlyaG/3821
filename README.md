@@ -40,6 +40,8 @@
 
 11.03.2022 - перегрузка операторов 2 - https://cloud.unn.ru/s/9g3kCTXtcpPRHw4
 
+# Прошлогодние записи:
+
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
 
 cmake2 - https://cloud.unn.ru/s/52zsCmnYYagxN4n
@@ -49,6 +51,28 @@ git1 - https://cloud.unn.ru/s/EGz2GpGkmtisDHa
 git2 - https://cloud.unn.ru/s/8FXYSYKjtb7aFsJ
 
 git3 - https://cloud.unn.ru/s/AiCqjC8TK4GDHL3
+
+1. Первый класс - https://cloud.unn.ru/s/GHzf8afrk9cgmmr
+
+2. Заливаем первый класс - https://cloud.unn.ru/s/Bx7LSY3sC9wdxL3
+
+3. Перегразка операций и исключения - https://cloud.unn.ru/s/RayjnMoRKEn6WTE
+
+4. Перегрузка операторов и шаблоны - https://cloud.unn.ru/s/LkzoyFreEFsb4B7
+
+5. перегрузка и приведение типов - https://cloud.unn.ru/s/6FqoEaELbczmtRQ
+
+6. про наследование - https://cloud.unn.ru/s/T64QpooapGrXjAf
+
+7. наследование и шаблоны - https://cloud.unn.ru/s/bJ8N75ZqFkofC5r
+
+8. про множественное наследование - https://cloud.unn.ru/s/tWSKdFb9eZ8NKEy
+
+9. про библиотеки - https://cloud.unn.ru/s/RKxe7iSGabS45xX
+
+
+
+
 
 # Первый семестр
 
