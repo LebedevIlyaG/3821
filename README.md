@@ -40,6 +40,10 @@
 
 11.03.2022 - перегрузка операторов 2 - https://cloud.unn.ru/s/9g3kCTXtcpPRHw4
 
+08.04.2022 - шаблоны классов 1 - https://cloud.unn.ru/s/tYGZ4NDkCgx6mRq
+
+08.04.2022 - шаблоны классов 2 - https://cloud.unn.ru/s/fj8ja3ZgfZY3HWa
+
 # Прошлогодние записи:
 
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
