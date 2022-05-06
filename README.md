@@ -44,6 +44,12 @@
 
 08.04.2022 - шаблоны классов 2 - https://cloud.unn.ru/s/fj8ja3ZgfZY3HWa
 
+06.05.2022 - Графический интерфейс на с++ 1, Привет мир! - https://cloud.unn.ru/s/kLpnJBns8tMSXcb
+
+06.05.2022 - Графический интерфейс на с++ 2, Комплексные числа - https://cloud.unn.ru/s/cWNMciCdY2AQAYs
+
+06.05.2022 - Графический интерфейс на с++ 3, 2D графика - https://cloud.unn.ru/s/dTkEetgRKWZfDyJ
+
 # Прошлогодние записи:
 
 cmake1 - https://cloud.unn.ru/s/cFs2DP7b4BHTfQC
