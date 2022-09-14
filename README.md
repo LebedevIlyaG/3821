@@ -32,13 +32,14 @@
 ﻿Ilya Lebedev приглашает вас на запланированную конференцию: Zoom.
 
 Тема: Zoom meeting invitation - Zoom Meeting Ilya Lebedev
-Время: 13 сент. 2022 10:00 AM Москва
+Время: 14 сент. 2022 03:00 PM Москва
 
 Подключиться к конференции Zoom
-https://us04web.zoom.us/j/78440881378?pwd=fmcrQqVgPbbQw3xty6eEoD9uYaXvwC.1
+https://us04web.zoom.us/j/73157645893?pwd=k23tOEBRKaRibbgtkD5cp2brrJ6Q9b.1
 
-Идентификатор конференции: 784 4088 1378
-Код доступа: fgkax5
+Идентификатор конференции: 731 5764 5893
+Код доступа: T7rG6s
+
 
 
 # Полезные ссылки:
