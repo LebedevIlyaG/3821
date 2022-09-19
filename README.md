@@ -46,11 +46,11 @@ https://us04web.zoom.us/j/73157645893?pwd=k23tOEBRKaRibbgtkD5cp2brrJ6Q9b.1
 
 Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
 
-Страница курса: [http://www.old.itmm.unn.ru/courses/algoritmy-i-struktury-dannyh]
+Страница курса: [http://old.itmm.unn.ru/courses/algoritmy-i-struktury-dannyh]
 
-Вот ссылка на презентации (старые): [http://www.old.itmm.unn.ru/most/prezentatsii-po-kursu-algoritmy-i-struktury-dannyh/]
+Вот ссылка на презентации (старые): [http://old.itmm.unn.ru/most/prezentatsii-po-kursu-algoritmy-i-struktury-dannyh/]
 
-Ссылка на материалы (2 тома, старые): [http://www.old.itmm.unn.ru/most/obuchenie/uchebnye-materialy/]
+Ссылка на материалы (2 тома, старые): [http://old.itmm.unn.ru/most/obuchenie/uchebnye-materialy/]
 
 Методичка по лабам (старые): [http://www.unn.ru/books/met_files/Pract_ADS.pdf]
 
