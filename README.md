@@ -31,15 +31,14 @@
 
 ﻿Ilya Lebedev приглашает вас на запланированную конференцию: Zoom.
 
-Тема: Zoom meeting invitation - Zoom Meeting Ilya Lebedev
-Время: 20 сент. 2022 10:00 AM Москва
+Тема: Практика по программированию 3821
+Время: Это регулярная конференция Начать в любое время
 
 Подключиться к конференции Zoom
-https://us04web.zoom.us/j/73832560247?pwd=bDX4BY8sZHAfKDVSxnCB7BmV4wQrk1.1
+https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
-Идентификатор конференции: 738 3256 0247
-Код доступа: 9H6iy8
-
+Идентификатор конференции: 788 2332 1031
+Код доступа: xNPV17
 
 
 
