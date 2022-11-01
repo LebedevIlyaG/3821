@@ -13,6 +13,8 @@
 
 # Практические занятия
 
+Тест: https://docs.google.com/forms/d/e/1FAIpQLSfubPJVM9sYrsA8DEwZkJeuDIHmBgGyrbjU3ygP5uAsLFbRyg/viewform?usp=sf_link
+
 БУДУТ ИДТИ ПО РАСПИСАНИЮ!!!
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
