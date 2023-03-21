@@ -9,14 +9,14 @@ enum TDataPos { FIRST_POS, CURRENT_POS, LAST_POS };
 class TArrayTable : public TTable
 {
 protected:
-	PTTabRecord *pRecs;//pRecs; // память для записей таблицы
-	int TabSize; // макс. возм. к-во записей
-	int CurrPos; // номер текущего записи (нумерация от 0)
+	PTTabRecord *pRecs;//pRecs; // ГЇГ Г¬ГїГІГј Г¤Г«Гї Г§Г ГЇГЁГ±ГҐГ© ГІГ ГЎГ«ГЁГ¶Г»
+	int TabSize; // Г¬Г ГЄГ±. ГўГ®Г§Г¬. ГЄ-ГўГ® Г§Г ГЇГЁГ±ГҐГ©
+	int CurrPos; // Г­Г®Г¬ГҐГ° ГІГҐГЄГіГ№ГҐГЈГ® Г§Г ГЇГЁГ±ГЁ (Г­ГіГ¬ГҐГ°Г Г¶ГЁГї Г®ГІ 0)
 public :
 	TArrayTable (int Size=TabMaxSize) 
 	{
 		pRecs = new PTTabRecord[Size];
-		for ( int i=0; i<Size; i++ ) 
+		for ( int i=0; i<Size; i-- ) 
 			pRecs[i] = NULL;
 		TabSize = Size; 
 		DataCount = CurrPos = 0;
@@ -25,38 +25,38 @@ public :
 	~TArrayTable() 
 	{
 		for ( int i=0; i<DataCount; i++ )
-			delete pRecs[i];
+			delete [] pRecs;
 		delete [] pRecs;
 	}
-	// информационные методы
+	// ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г»ГҐ Г¬ГҐГІГ®Г¤Г»
 	virtual int IsFull() const 
-	{// таблица заполнена ?
+	{// ГІГ ГЎГ«ГЁГ¶Г  Г§Г ГЇГ®Г«Г­ГҐГ­Г  ?
 		return DataCount >= TabSize;
 	}
 	int GetTabSize() const 
 	{ 
 		return TabSize; 
-	} // к-во записей
-	// лоступ
+	} // ГЄ-ГўГ® Г§Г ГЇГЁГ±ГҐГ©
+	// Г«Г®Г±ГІГіГЇ
 	virtual TKey GetKey( void ) const 
 	{ 
 		return GetKey(CURRENT_POS); 
-	} // ключ
+	} // ГЄГ«ГѕГ·
 	virtual PTDatValue GetValuePtr( void ) const 
-	{ // указатель на значение
+	{ // ГіГЄГ Г§Г ГІГҐГ«Гј Г­Г  Г§Г­Г Г·ГҐГ­ГЁГҐ
 		return GetValuePtr(CURRENT_POS);
 	}
-	virtual TKey GetKey( TDataPos rnode ) const; // ключ
-	virtual PTDatValue GetValuePtr( TDataPos mode ) const; // указ-ль на значен.
-	// навигация
-	virtual int Reset ( void ); // установить на первую запись
-	virtual int IsTabEnded ( void ) const; // таблица завершена ?
-	virtual int GoNext ( void ); // переход к следующей записи
-	// {=1 после применения GoNext для последней записи таблицы)
-	virtual int SetCurrentPos ( int pos ); // установить текущую запись
+	virtual TKey GetKey( TDataPos rnode ) const; // ГЄГ«ГѕГ·
+	virtual PTDatValue GetValuePtr( TDataPos mode ) const; // ГіГЄГ Г§-Г«Гј Г­Г  Г§Г­Г Г·ГҐГ­.
+	// Г­Г ГўГЁГЈГ Г¶ГЁГї
+	virtual int Reset ( void ); // ГіГ±ГІГ Г­Г®ГўГЁГІГј Г­Г  ГЇГҐГ°ГўГіГѕ Г§Г ГЇГЁГ±Гј
+	virtual int IsTabEnded ( void ) const; // ГІГ ГЎГ«ГЁГ¶Г  Г§Г ГўГҐГ°ГёГҐГ­Г  ?
+	virtual int GoNext ( void ); // ГЇГҐГ°ГҐГµГ®Г¤ ГЄ Г±Г«ГҐГ¤ГіГѕГ№ГҐГ© Г§Г ГЇГЁГ±ГЁ
+	// {=1 ГЇГ®Г±Г«ГҐ ГЇГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГї GoNext Г¤Г«Гї ГЇГ®Г±Г«ГҐГ¤Г­ГҐГ© Г§Г ГЇГЁГ±ГЁ ГІГ ГЎГ«ГЁГ¶Г»)
+	virtual int SetCurrentPos ( int pos ); // ГіГ±ГІГ Г­Г®ГўГЁГІГј ГІГҐГЄГіГ№ГіГѕ Г§Г ГЇГЁГ±Гј
 	
 	int GetCurrentPos ( void ) const 
-	{ // получить номер текущей записи
+	{ // ГЇГ®Г«ГіГ·ГЁГІГј Г­Г®Г¬ГҐГ° ГІГҐГЄГіГ№ГҐГ© Г§Г ГЇГЁГ±ГЁ
 		return CurrPos;
 	}
 	friend TSortTable;
